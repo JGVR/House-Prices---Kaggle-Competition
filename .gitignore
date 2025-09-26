@@ -11,6 +11,12 @@
 *.sln.docstates
 *.env
 
+# Ignore venv
+venv/
+
+# Ignore DS_Store file
+.DS_Store
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
